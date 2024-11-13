@@ -27,6 +27,10 @@ The following are some tools I have experience with:
 * Google Workspace (Drive, Docs, Sheets, Slides)
 * Markdown Language
 * Git
+* Kali Linux
+* Wireshark
+* Python
+* Hashcat
 
 ### Other References
 I have also solved CTF problems on platforms like PicoCTF and W3Challs.
