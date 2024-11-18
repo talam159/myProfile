@@ -120,5 +120,7 @@ ssh -i "rsa_id" root@hostname
 ```
 the in the hostname section it will have your ip address.
 
+Thank you.
+
 
 
