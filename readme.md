@@ -37,7 +37,7 @@ I have also solved CTF problems on platforms like PicoCTF and W3Challs.
 
 …and more!
 
-**Stay tuned for updates!**
+**Stay tuned for updates!!**
 
 This portfolio will continuously grow as I complete more certifications and projects. I encourage you to visit again to see my progress and learn more about my skills and experience.
 
